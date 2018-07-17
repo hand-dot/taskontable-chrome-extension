@@ -1,6 +1,7 @@
 {
-    "name": "Taskontable",
-    "version": "0.0.0",
+    "name": "Taskontable: To-Do list & Timekeeper on Excel",
+    "short_name": "Taskontable",
+    "version": "0.1.0",
     "manifest_version": 2,
     "description": "Taskontable is To-Do List & Time keeper on Spreadsheet. Why don't you finish work early?",
     "background": {
